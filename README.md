@@ -1,4 +1,4 @@
-# timbucks Project
+# timbucks Project (TBX)
 
 ## youtube video
 * [How to send Tokens from Metamask to Exchange](https://www.youtube.com/watch?v=d5EipPVafsA)
