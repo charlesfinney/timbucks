@@ -1,7 +1,7 @@
 # timbucks
 
 ## youtube video
-* [How to send Tokens from Metamask to Exchange](https://www.youtube.com/watch?v=d5EipPVafsA)
+* [How to create your OWN cryptocurrency in 15 minutes - Programmer explains](https://www.youtube.com/watch?v=d5EipPVafsA)
 * [How to send Tokens from Metamask to Exchange](https://www.youtube.com/watch?v=P2caxOsA_JE)
 * [Create Your Own Cryptocurrency On Ethereum 1 - ERC20 Tokens | Blockchain](https://www.youtube.com/watch?v=JHrQ3l2tT78)
 * [Sending ERC-20 Tokens · #4 Code Your Own Cryptocurrency on Ethereum](https://www.youtube.com/watch?v=uVUMyyiqFAI)
