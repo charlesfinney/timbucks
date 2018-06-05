@@ -1,4 +1,4 @@
-# timbucks Project (TBX)
+# Timbucks Project (TBX)
 Quest of the Day: create your own currency and exchange it with group 
 ## youtube video
 * [How to send Tokens from Metamask to Exchange](https://www.youtube.com/watch?v=d5EipPVafsA)
