@@ -1,3 +1,4 @@
+![Timbucks tree](https://github.com/charlesfinney/timbucks/blob/master/site-images/tbx.png)
 # Timbucks Project (TBX)
 Quest of the Day: create your own currency and exchange it with group 
 ## youtube video
